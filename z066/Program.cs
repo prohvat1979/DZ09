@@ -20,4 +20,4 @@ int SumNumbers(int M, int N)
 
 int M = ReadInt("Введите число M: ");
 int N = ReadInt("Введите число N: ");
-System.Console.WriteLine($" Сумма натуральных элементов равна: {SumNumbers(M, N)}");
+System.Console.WriteLine($"Сумма натуральных элементов равна: {SumNumbers(M, N)}");
